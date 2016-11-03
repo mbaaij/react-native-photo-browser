@@ -30,6 +30,7 @@ The component has both iOS and Android support.
 |**`onBack`**|Function|Called when back button is tapped.|`() => {}`|
 |**`itemPerRow`**|Number|Sets images amount in grid row.|`3`|
 |**`isStatusBarTranslucent`**|Boolean|Optional translucent StatusBar|`false`|
+|**`backText`**|String|Label for back button|``|
 
 ### Media Object
 
